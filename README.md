@@ -1,5 +1,7 @@
-Artificial Intelligence, Pacman Game (Fall 2016)
-======================================
+Artificial Intelligence, Pacman Game (Fall 2023)
+===============================================
+
+
 
 ## Intro
 [The Pacman Projects](http://ai.berkeley.edu/project_overview.html) by the [University of California, Berkeley](http://berkeley.edu/). It was the same project but we had different implementations in our Course CS 205 at UCR.
